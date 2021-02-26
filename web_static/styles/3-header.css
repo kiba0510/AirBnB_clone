@@ -5,7 +5,7 @@ header {
   border-bottom: 1px solid #cccccc;
 }
 
-#logo {
+.logo {
   height: 100%;
   width: 150px;
   background-image: url("../styles/images/logo.png");
